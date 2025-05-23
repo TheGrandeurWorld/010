@@ -1,0 +1,7 @@
+cd /chemin/vers/site-vitrine
+git init
+git add .
+git commit -m "Première version du site vitrine"
+git remote add origin https://github.com/TheGrandeurWorld/site-vitrine.git
+git branch -M main
+git push -u origin main
